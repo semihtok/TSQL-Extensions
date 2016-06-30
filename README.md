@@ -1,2 +1,2 @@
-# TSQL-Extensions
-Extensions for boring things in TSQL
+# TSQL-Templates
+Templates for boring things in TSQL
